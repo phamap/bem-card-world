@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"f",
+				"font-modern	font-modern"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"card",
+				"card-header"
+			],
+			[
 				"con",
 				"content"
 			],
@@ -502,18 +514,6 @@
 			[
 				"clone",
 				"clonePhrase"
-			],
-			[
-				"ph",
-				"phrase"
-			],
-			[
-				"j",
-				"jpeg"
-			],
-			[
-				"sty",
-				"style"
 			]
 		]
 	},
@@ -523,15 +523,117 @@
 			"file": "desktop.bundles/index/index.bemjson.js",
 			"settings":
 			{
-				"buffer_size": 1274,
+				"buffer_size": 22066,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "common.blocks/page/_theme/page_theme_music.styl",
+			"file": "common.blocks/card-footer/_align/card-footer_align_center.styl",
 			"settings":
 			{
-				"buffer_size": 149,
+				"buffer_size": 44,
+				"line_ending": "Unix",
+				"name": ".card-header_align_center"
+			}
+		},
+		{
+			"file": "common.blocks/card-image/card-image.styl",
+			"settings":
+			{
+				"buffer_size": 50,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1070,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".enb/make.js",
+			"settings":
+			{
+				"buffer_size": 5484,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/index.html",
+			"settings":
+			{
+				"buffer_size": 9001,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".borschik",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Unix",
+				"name": "{"
+			}
+		},
+		{
+			"file": "common.blocks/card-aside/_direct/card-aside_direct_right.styl",
+			"settings":
+			{
+				"buffer_size": 71,
+				"line_ending": "Unix",
+				"name": ".card-aside_direct"
+			}
+		},
+		{
+			"file": "common.blocks/card-aside/card-aside.styl",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Unix",
+				"name": ".card-aside"
+			}
+		},
+		{
+			"file": "common.blocks/wrap/wrap.styl",
+			"settings":
+			{
+				"buffer_size": 82,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "common.blocks/card-header/card-header.styl",
+			"settings":
+			{
+				"buffer_size": 59,
+				"line_ending": "Unix",
+				"name": ".card-header"
+			}
+		},
+		{
+			"file": "common.blocks/card/card.styl",
+			"settings":
+			{
+				"buffer_size": 286,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "common.blocks/card-footer/card-footer.styl",
+			"settings":
+			{
+				"buffer_size": 82,
+				"line_ending": "Unix",
+				"name": ".card-footer"
+			}
+		},
+		{
+			"file": "common.blocks/page/_theme/page_theme_mat-cards.styl",
+			"settings":
+			{
+				"buffer_size": 42,
 				"line_ending": "Unix"
 			}
 		},
@@ -550,6 +652,10 @@
 		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
 			[
 				"sty",
 				"Set Syntax: Stylus"
@@ -605,10 +711,6 @@
 			[
 				"re",
 				"Package Control: Remove Package"
-			],
-			[
-				"ja",
-				"Set Syntax: JavaScript"
 			],
 			[
 				"gi",
@@ -698,10 +800,25 @@
 	[
 		"/home/phamap/webserver/public_html/bem",
 		"/home/phamap/webserver/public_html/bem/mat-cards",
-		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks"
+		"/home/phamap/webserver/public_html/bem/mat-cards/dist"
 	],
 	"file_history":
 	[
+		"/home/phamap/webserver/public_html/bem/mat-cards/desktop.bundles/index/index.html",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/card-image/card-image.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/card-image/__caption/card-image__caption.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/card-content/card-content.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/card-header/__title/card-header__title.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/card-header/__logo/card-header__logo.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/link/_type/link_type_no.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/link/_type/link_type_yes.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/clearfix/clearfix.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/card-header/__subtitle/card-header__subtitle.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/link/_style/link_style_material.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/link/_type/_5/link_type_no.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/card-header/card-header.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/common.blocks/wrap/wrap.styl",
+		"/home/phamap/webserver/public_html/bem/mat-cards/bem-tests.sublime-project",
 		"/home/phamap/webserver/public_html/bem/test-project/common.blocks/header/header.styl",
 		"/home/phamap/webserver/public_html/bem/test-project/libs/bem-components/touch-phone.blocks/.bem/level.js",
 		"/home/phamap/webserver/public_html/bem/test-project/.bem/make.js",
@@ -814,26 +931,11 @@
 		"/home/phamap/webserver/public_html/baran.loc/_gulp/app/dev/jade/simple.jade",
 		"/home/phamap/webserver/public_html/simple-gulp-config/app/dev/jade/layout.jade",
 		"/home/phamap/webserver/public_html/baran.loc/_gulp/app/dev/jade/lp/content/comments.jade",
-		"/home/phamap/Загрузки/skype/test.phtml",
-		"/home/phamap/webserver/public_html/baran.loc/_gulp/app/dev/jade/lesson.jade",
-		"/home/phamap/webserver/public_html/baran.loc/temp/orator2014_main-mistakes/demo-land10.lptrend.com/stylesheets/main.css",
-		"/home/phamap/webserver/public_html/baran.loc/temp/orator2014_main-mistakes/demo-land10.lptrend.com/index.html",
-		"/home/phamap/webserver/public_html/baran.loc/temp/another_trash/demo-land16.lptrend.com/assets/css/style.css",
-		"/home/phamap/webserver/public_html/baran.loc/temp/another_trash/demo-land16.lptrend.com/index.html",
-		"/home/phamap/webserver/public_html/baran.loc/temp/another_trash/demo-land16.lptrend.com/assets/css/bootstrap.css",
-		"/home/phamap/webserver/public_html/baran.loc/orator2014_lessons/index.html",
-		"/home/phamap/webserver/public_html/baran.loc/orator2014_lessons/lesson2.html",
-		"/home/phamap/webserver/public_html/baran.loc/orator2014_lessons/lesson3.html",
-		"/home/phamap/webserver/public_html/baran.loc/orator2014_lessons/lesson4.html",
-		"/home/phamap/webserver/public_html/perm/test/zt.crm.ui/index.html",
-		"/home/phamap/webserver/public_html/baran.loc/temp/lesson2.html",
-		"/home/phamap/webserver/public_html/baran.loc/temp/lesson3.html",
-		"/home/phamap/webserver/public_html/baran.loc/temp/lesson4.html",
-		"/home/phamap/webserver/public_html/baran.loc/temp/lesson6.html"
+		"/home/phamap/Загрузки/skype/test.phtml"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -847,6 +949,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"mod",
+			"lorem",
+			"10",
+			"parrot",
+			"../../img/parrot.jpg",
+			"top",
+			"вши",
+			"[\n                                {\n                                    block : 'image',\n                                    url : 'http://lorempixel.com/320/200/people/',\n                                    title : 'Все подробности на bem.info'\n                                },\n                                {\n                                    elem: 'caption',\n                                    content: 'Image caption'\n                                }\n                            ]",
+			"card-header__",
+			"heade",
 			"logo",
 			"  //////////////////////////////////////////",
 			"p \n",
@@ -964,17 +1076,7 @@
 			"p •	",
 			"p \n",
 			"от Александра Белановского",
-			"png",
-			" ",
-			"»",
-			"«",
-			"от Александра Белановского",
-			"Розыгрыш подарков от Александра Белановского.",
-			"Розыгрыш подарков от Александра Белановског",
-			"•	",
-			"Розыгрыш подарков от Александра Белановского",
-			" ",
-			"Розыгрыш подарков от Александра Белановского"
+			"png"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1005,7 +1107,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -1014,7 +1116,173 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1274,
+						"buffer_size": 22066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18582,
+								18582
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5286.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "common.blocks/card-footer/_align/card-footer_align_center.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".card-header_align_center",
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "common.blocks/card-image/card-image.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								814,
+								814
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".enb/make.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5484,
+								5484
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1973.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "dist/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9001,
 						"regions":
 						{
 						},
@@ -1031,32 +1299,125 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2388.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "common.blocks/page/_theme/page_theme_music.styl",
+					"buffer": 6,
+					"file": ".borschik",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 149,
+						"buffer_size": 131,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								149,
-								149
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "common.blocks/card-aside/_direct/card-aside_direct_right.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".card-aside_direct",
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "common.blocks/card-aside/card-aside.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".card-aside",
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "common.blocks/wrap/wrap.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
 							]
 						],
 						"settings":
@@ -1071,11 +1432,135 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 10,
+					"file": "common.blocks/card-header/card-header.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 59,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".card-header",
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "common.blocks/card/card.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "common.blocks/card-footer/card-footer.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".card-footer",
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "common.blocks/page/_theme/page_theme_mat-cards.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/EarthsongLight (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
 					"file": "common.blocks/header/__nameplate/header__nameplate.styl",
 					"semi_transient": false,
 					"settings":
@@ -1103,7 +1588,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 14,
 					"type": "text"
 				}
 			]

@@ -209,19 +209,6 @@
                         }
                     ]
                 },
-                {
-                    block: 'card',
-                    content: [
-                        {
-                            block: 'card-content',
-                            content: [
-                                {
-                                    tag: 'p', content: 'A dolore repellendus in magni tempora, nulla voluptatum deleniti nobis est doloremque, eaque labore vitae error ipsam.'
-                                }
-                            ]
-                        }
-                    ]
-                },
                  {
                     block: 'card',
                     content: [
@@ -498,6 +485,128 @@
                         }
                     ]
                 },
+            ]
+        },
+        {
+            block: 'wrap',
+            mix: [{block: 'clearfix'}],
+            content: [
+                {
+                    tag: 'h3',
+                    content: 'With JS'
+                },
+                {
+                    block: 'card',
+                    content: [
+                        {
+                            block: 'card-image',
+                            content: [
+                                {
+                                    block : 'image',
+                                    url : '../../img/parrot.jpg',
+                                    title : 'Все подробности на bem.info'
+                                },
+                                {
+                                    elem: 'caption',
+                                    content: 'BEM is awesome'
+                                }
+                            ]
+                        },
+                        {
+                            block: 'card-header',
+                            content: [
+                                {
+                                    elem: 'title',
+                                    tag: 'h3',
+                                    content: 'Hello card world'
+                                },
+                                {
+                                    elem: 'subtitle',
+                                    tag: 'span',
+                                    content: 'This is subheader'
+                                },
+                                {
+                                    block: 'dots',
+                                    js: true,
+                                    content: ''
+                                }
+                            ]
+                        },
+                        {
+                            block: 'card-popup',
+                            js: true,
+                            content: [
+                                {
+                                    tag: 'h4',
+                                    content: 'Some awesome header'
+                                },
+                                {
+                                    tag: 'p',
+                                    content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque repellat necessitatibus non corporis, illum hic quisquam minus. Iste praesentium fugiat quisquam illum, perspiciatis voluptate, in eius animi doloremque corporis voluptates.'
+                                },
+                                {
+                                    elem: 'close'
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    block: 'card',
+                    content: [
+                         {
+                            block: 'card-header',
+                            content: [
+                                {
+                                    elem: 'title',
+                                    tag: 'h3',
+                                    content: 'Hello card world'
+                                },
+                                {
+                                    elem: 'subtitle',
+                                    tag: 'span',
+                                    content: 'This is subheader'
+                                },
+                                {
+                                    block: 'dots',
+                                    js: true,
+                                    content: ''
+                                }
+                            ]
+                        },
+                        {
+                            block: 'card-image',
+                            content: [
+                                {
+                                    block : 'image',
+                                    url : '../../img/parrot.jpg',
+                                    title : 'Все подробности на bem.info'
+                                },
+                                {
+                                    elem: 'caption',
+                                    content: 'BEM is awesome'
+                                }
+                            ]
+                        },
+                        {
+                            block: 'card-popup',
+                            js: true,
+                            content: [
+                                {
+                                    tag: 'h4',
+                                    content: 'Some awesome header'
+                                },
+                                {
+                                    tag: 'p',
+                                    content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque repellat necessitatibus non corporis, illum hic quisquam minus. Iste praesentium fugiat quisquam illum, perspiciatis voluptate, in eius animi doloremque corporis voluptates.'
+                                },
+                                {
+                                    elem: 'close'
+                                }
+                            ]
+                        }
+                    ]
+                }
             ]
         }
     ]
